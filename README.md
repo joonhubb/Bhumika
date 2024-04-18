@@ -2,16 +2,16 @@
 <style>
    body{
      background-color: #f9d77e;
-     font-size: 20pt:
+     font-size: 20pt;
 }
   h1  {
-    font-family: 'Times new roman':
-  color: #261c01
+    font-family: 'Times new roman';
+  color: #261c01;
 }
   p {
-    font-family: Arial
-    color: #4d3903
-    font-weight: 800
+    font-family: Arial;
+    color: #4d3903;
+    font-weight: 80;0
 }
 </style>
 </head>
