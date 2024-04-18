@@ -1,7 +1,5 @@
 <!doctype html>
 <html lang="eng">
-
-<link href="styles.css" rel="stylesheet" type="text/css" />
 <head>
 <style>
    body{
