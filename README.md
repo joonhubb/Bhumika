@@ -2,7 +2,7 @@
 <html lang="eng">
 
 <link href="styles.css" rel="stylesheet" type="text/css" />
-</head>
+<head>
 <style>
    body{
      background-color: #f9d77e;
